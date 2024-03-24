@@ -1,0 +1,35 @@
+{
+  "name": "demo5120",
+  "version": "1.0.0",
+  "description": "Generate unique IDs in React.js",
+  "main": "index.js",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./index.d.ts",
+  "keywords": [
+    "unique id",
+    "react"
+  ],
+  "author": "Sandeep",
+  "license": "MIT",
+  "homepage": "https://github.com/sndp-rajput/react-unique-ids#readme",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sndp-rajput/react-unique-ids.git)"
+  },
+  "bugs": {
+    "url": "https://github.com/sndp-rajput/react-unique-ids/issues"
+  },
+  "contributors": [
+    {
+      "name": "Sandeep",
+      "url": "https://github.com/sndp-rajput"
+    }
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
